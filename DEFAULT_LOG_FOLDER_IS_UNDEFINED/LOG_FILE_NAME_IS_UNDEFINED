@@ -1,0 +1,16 @@
+2021.03.19 10:33:05.186 [main] INFO  org.acme.Init:48 - Logback was configured with sucess
+2021.03.19 10:33:05.191 [main] INFO  org.acme.Init:59 - Initializing app...
+2021.03.19 10:33:59.892 [main] INFO  org.acme.Init:48 - Logback was configured with sucess
+2021.03.19 10:33:59.897 [main] INFO  org.acme.Init:59 - Initializing app...
+2021.03.19 10:34:06.382 [executor-thread-1] INFO  org.acme.GreetingResource:18 - hello invoked
+2021.03.19 10:34:08.125 [executor-thread-1] INFO  org.acme.GreetingResource:18 - hello invoked
+2021.03.19 10:34:08.652 [executor-thread-1] INFO  org.acme.GreetingResource:18 - hello invoked
+2021.03.19 10:34:08.946 [executor-thread-1] INFO  org.acme.GreetingResource:18 - hello invoked
+2021.03.19 10:34:09.159 [executor-thread-1] INFO  org.acme.GreetingResource:18 - hello invoked
+2021.03.19 10:34:09.322 [executor-thread-1] INFO  org.acme.GreetingResource:18 - hello invoked
+2021.03.19 10:34:09.509 [executor-thread-1] INFO  org.acme.GreetingResource:18 - hello invoked
+2021.03.19 11:48:05.464 [main] INFO  org.acme.Init:59 - Logback was configured with sucess
+2021.03.19 11:48:05.469 [main] INFO  org.acme.Init:73 - Initializing app...
+2021.03.19 11:53:55.699 [main] INFO  org.acme.Init:48 - Logback was configured with sucess
+2021.03.19 11:53:55.703 [main] INFO  org.acme.Init:59 - Initializing app...
+2021.03.19 11:54:03.634 [executor-thread-1] INFO  org.acme.GreetingResource:18 - hello invoked
